@@ -2,3 +2,4 @@ __pycache__/
 Supervised-Learning-Solutions.ipynb
 cache/
 images/
+.ipynb_checkpoints/
